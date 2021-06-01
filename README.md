@@ -1,6 +1,6 @@
 ### 👋
 
-<a href="https://codeonec.studio"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/285/globe-showing-americas_1f30e.png" height="16" alt="globe">https://codeonec.studio</a>
+<a href="https://codeonec.studio"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/285/globe-showing-americas_1f30e.png" height="16" alt="globe">&nbsp;https://codeonec.studio</a>
 <!--
 **codeonec/codeonec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
