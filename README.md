@@ -1,6 +1,4 @@
 ### 👋
-
-<a href="https://codeonec.studio">🌏&nbsp;&nbsp;https://codeonec.studio</a>
 <!--
 **codeonec/codeonec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
